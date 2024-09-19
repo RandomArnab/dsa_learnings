@@ -1,0 +1,1 @@
+Tryna learn more DSA since I've been ignoring it for quite a while. These are my notes and stuff that I've picked up while following IITM DSA course on youtube. Here's the link if anyone's interested : https://www.youtube.com/playlist?list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT
